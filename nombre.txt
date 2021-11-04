@@ -1,0 +1,8 @@
+git init --> iniciar el repositorio.
+git status--> ver el estado del repositorio.
+git add--> agregar archivo al repositorio.
+git reset--> resetear el repositorio.
+git commit -m "" --> hace los cambios definitivos
+git log --oneline --> muestra el log simplificado
+git reset --hard --> borra un commit del cual pones su id
+git branch --> muestra la rama y tambien permite crear ramas
